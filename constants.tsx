@@ -1,4 +1,3 @@
-
 import { PuzzleItem, GameMode } from './types';
 
 export const CATEGORIES = {
